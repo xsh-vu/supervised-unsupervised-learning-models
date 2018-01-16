@@ -1,8 +1,8 @@
 The purpose of this project was to:
 
-	(a) construct supervised and unsupervised cognitive learning models for predicting 	animal features (given input data) and assess the performances of each model, as 	well as 
+	(a) construct supervised and unsupervised cognitive learning models for predicting 	animal features (given input data) and assess the performances of each model, as well as 
 
-	(b) evaluate how low-level/concrete features (i.e., size) and high-level/abstract 	features (i.e., intelligence) would affect each model.
+	(b) evaluate how low-level/concrete features (i.e., size) and high-level/abstract features (i.e., intelligence) would affect each model.
 
 Implementation coded in Python. The following packages should be imported: pandas, numpy, scipy, sys, and sklearn (from which the KMeans function was imported for the unsupervised learning model). 
 
